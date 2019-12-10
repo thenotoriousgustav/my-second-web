@@ -1,0 +1,26 @@
+ <div style={styles.parentButton1}>
+                            <div style={styles.Doit}>
+                                Do It Now
+                            </div>
+
+                             parentButton1: {
+        display: "flex",
+        borderRadius: 30,
+        alignSelf: "center",
+        marginTop: 60,
+        marginLeft: 130,
+        background: "#FCB371",
+        fontFamily: "Poppins",
+        position: "absolute",
+       padding: 15
+    },
+    Doit: {
+        color: "#ffff",
+        margin: 10,
+        marginRight: 40,
+        marginLeft: 30,
+        textAlign: 'center',
+        fontFamily: 'Poppins',
+        fontSize: '24px'
+
+    }
